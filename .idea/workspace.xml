@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8aed25d-5e85-4dd1-948f-811c58f60c21" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/assets/img/Button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Button@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/ChatGPT Image 21 de nov. de 2025, 17_25_29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/ChatGPT Image 21 de nov. de 2025, 17_26_36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Group 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Logo DB dark blue 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/d+b dark blue - horizontal (1) 1.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -9,10 +16,25 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 2
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Erissonteixeira"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Erissonteixeira/PortfolioDB.git",
+    "accountId": "360f9250-eb46-4009-87d9-9f303d05be26"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="35kyA7H5VJfaUm18SzM0DVExLJG" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -21,7 +43,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="TaskManager">
